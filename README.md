@@ -2,7 +2,16 @@
 
 I'm a Site Reliabilty Engieneer at [Yelp Inc](https://yelp.com).
 
-I'm into docker, iOS Apps, Nintendo Switch Homebrew, cloud native app development, bass guitar, kiteboarding, longboarding, snowboarding
+I'm into: 
+- Docker 🐳
+- Kubernetes ⚓️
+- iOS Apps 📱
+- Nintendo Switch Homebrew 🎮
+- Cloud Native app development ☁️
+- bass guitar 🎸
+- kiteboarding 🏄
+- longboarding 🛹
+- snowboarding 🏂
 <!--
 **cuza/cuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
