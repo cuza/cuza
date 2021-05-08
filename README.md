@@ -2,8 +2,7 @@
 
 I'm a Site Reliabilty Engieneer at [Yelp Inc](https://yelp.com).
 
-A Software Engineer with professional experience as a Full-stack developer, DevOps and SysAdmin. Proficient in Desktop, Web and Mobile Apps development, Information Technologies and Cloud environments. More than 10 years of Linux desktop and server experience. Knowledge of multiple frameworks, programming languages, Design Patterns and Competitive Programming.
-
+I'm into docker, iOS Apps, Nintendo Switch Homebrew, cloud native app development, bass guitar, kiteboarding, longboarding, snowboarding
 <!--
 **cuza/cuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
