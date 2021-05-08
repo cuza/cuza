@@ -8,10 +8,10 @@ I'm into:
 - iOS Apps 📱
 - Nintendo Switch Homebrew 🎮
 - Cloud Native app development ☁️
-- bass guitar 🎸
-- kiteboarding 🏄
-- longboarding 🛹
-- snowboarding 🏂
+- Bass guitar 🎸
+- Kiteboarding 🏄
+- Longboarding 🛹
+- Snowboarding 🏂
 <!--
 **cuza/cuza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
