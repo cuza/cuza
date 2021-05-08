@@ -2,7 +2,7 @@
 
 I'm a Site Reliabilty Engieneer at [Yelp Inc](https://yelp.com).
 
-I'm into: 
+Some of the stuff I work on: 
 - Docker 🐳
 - Kubernetes ⚓️
 - iOS Apps 📱
